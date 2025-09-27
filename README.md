@@ -67,7 +67,7 @@ Uma aplicação web moderna que permite explorar fotos incríveis capturadas pel
 1. **Clone o repositório**
 ```bash
 git clone  https://github.com/Gahas2004/Projeto_1-Fullstack.git
-cd mars-rover-galerry
+cd mars-rover-gallery
 ```
 
 2. **Instale as dependências**
